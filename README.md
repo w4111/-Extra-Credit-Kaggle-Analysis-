@@ -2,7 +2,7 @@
 
 **Deadline**: 12/01 11:59PM EST.
 
-Extra credit of 2% of the total class grade
+Extra credit of 2% the total class grade
 
 In this extra credit assignment, you will explore the [Kaggle dataset transformed from real Kaggle databases](
 https://www.kaggle.com/datasets/kaggle/meta-kaggle).
