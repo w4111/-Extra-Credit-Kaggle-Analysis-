@@ -1,5 +1,10 @@
 # [Extra Credit] Analyze Kaggle in Kaggle
 
+
+
+## Update log
+* 11/6: Fix some typo in the last cell. Please update the last cell if you use a version of the notebook before 11/6.
+
 **Deadline**: 12/01 11:59PM EST.
 
 Extra credit of 2% the total class grade
